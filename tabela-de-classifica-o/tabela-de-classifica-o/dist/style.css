@@ -1,0 +1,58 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://static.techspot.com/images2/downloads/topdownload/2020/10/2020-10-13-ts3_thumbs-b3e.png");
+
+  background-color: #810397;
+  background-size: 90%;
+  background-position: none;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  border: 5px groove #c0c0c0;
+  border-collapse: collapse;
+}
+
+h1 {
+  color: black;
+  font-family: fantasy;
+}
+
+th,
+tr,
+td {
+  border: solid 3px #a9a9a9;
+  color: #dcdcdc;
+}
